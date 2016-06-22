@@ -16,4 +16,4 @@ deploying to the [npm website].
 1. fork and clone this repository
 2. `cd readme-tester`
 3. `npm install`
-4. `node index.js`
+4. `npm start`
