@@ -1,0 +1,25 @@
+{
+  "name": "readme-tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/readme-tester.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npm/readme-tester/issues"
+  },
+  "homepage": "https://github.com/npm/readme-tester#readme",
+  "dependencies": {
+    "changes-stream": "^1.1.0",
+    "marky-markdown": "^7.0.1",
+    "request": "^2.72.0"
+  }
+}
