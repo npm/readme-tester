@@ -20,6 +20,7 @@
   "dependencies": {
     "changes-stream": "^1.1.0",
     "marky-markdown": "^7.0.1",
-    "request": "^2.72.0"
+    "request": "^2.72.0",
+    "summary-statistics": "^1.0.0"
   }
 }
